@@ -15,3 +15,5 @@ For example, the following figure shows residuals vs. fitted values from a datas
 The figure below shows a dataset that violates the homoscedasticity assumption. This condition is known as heteroscedasticity.
 
 ![image alt](https://github.com/adeyie/homoscedasticity/blob/9d4d0c974b65510b6fadee4994b89952a2be59b8/heteroscedasticity.png)
+
+In-progress
