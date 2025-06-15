@@ -9,4 +9,5 @@ In this write-up, I will discuss:
 The regression models are trained by minimizing least squares errors between fitted values and true values from a training dataset. This model of regression is known as the ordinary least squares (OLS) regression. The coefficient of input variables and the intercept are estimated by minimizing the least squares errors. From the known values of coefficients and intercepts, the point value of the target variable is estimated for a new observation. The OLS regression assumes that the error is consistent for all observations, known as homoscedasticity. 
 
 For example, the following figure shows residuals vs. fitted values from a dataset that meets the homoscedasticity assumption.
+
 ![image alt](https://github.com/adeyie/homoscedasticity/blob/f78f230ad56210792a66376d08c6a207e844a570/homoscedasticity.tif)
