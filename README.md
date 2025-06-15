@@ -10,4 +10,4 @@ The regression models are trained by minimizing least squares errors between fit
 
 For example, the following figure shows residuals vs. fitted values from a dataset that meets the homoscedasticity assumption.
 
-![image alt](https://github.com/adeyie/homoscedasticity/blob/f78f230ad56210792a66376d08c6a207e844a570/homoscedasticity.tif)
+![image alt](https://github.com/adeyie/homoscedasticity/blob/50cebaafa85242bf6f60e32f5bd85b153b3ae5c3/homoscedasticity.png)
