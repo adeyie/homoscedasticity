@@ -18,7 +18,7 @@ The figure below shows a dataset that violates the homoscedasticity assumption. 
 
 ##  Checking the Homoscedasticity Assumption
 To evaluate whether a dataset meets the homoscedasticity assumption in linear regression, develop an Ordinary Least Squares (OLS) regression model by minimizing least squares errors.  
-
+<pre> β = (XᵀX)⁻¹ Xᵀy </pre>
 Next, calculate the fitted (predicted) values and residuals for each data point. Then, create a plot with the fitted values on the x-axis and the residuals on the y-axis. 
 
 If the points are randomly scattered without any clear pattern, it suggests that the homoscedasticity assumption is likely satisfied. The parameters of the linear regression model are estimated by minimizing the sum of squared residuals, a method known as Ordinary Least Squares (OLS).
