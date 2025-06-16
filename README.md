@@ -27,3 +27,4 @@ If the plot shows any visible pattern and is not randomly scattered, it suggests
 ## Weighted Least Squares (WLS) Regression
 The model parameter estimation formulation for WLS regression is
 <pre> β = (XᵀWX)⁻¹XᵀWy </pre>
+In the above equation, W is unknown and a diagonal matrix with dimensions equal to the number of observations. It can be estimated from the residuals of the OLS regression.
