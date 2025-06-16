@@ -24,5 +24,5 @@ Next, calculate the fitted (predicted) values and residuals for each data point.
 If the points are randomly scattered without any clear pattern, it suggests that the homoscedasticity assumption is likely satisfied. The parameters of the linear regression model are estimated by minimizing the sum of squared residuals, a method known as Ordinary Least Squares (OLS).
 
 If the plot shows any visible pattern and is not randomly scattered, it suggests a violation of the homoscedasticity assumption. In such cases, you can use Weighted Least Squares (WLS) regression to estimate the model parameters.
-
+## Weighted Least Squares (WLS) Regression
 In-progress
