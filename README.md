@@ -17,5 +17,6 @@ The figure below shows a dataset that violates the homoscedasticity assumption. 
 ![image alt](https://github.com/adeyie/homoscedasticity/blob/9d4d0c974b65510b6fadee4994b89952a2be59b8/heteroscedasticity.png)
 
 ##  Checking the Homoscedasticity Assumption
-To evaluate whether a dataset meets the homoscedasticity assumption in linear regression, develop an Ordinary Least Squares (OLS) regression model.
+To evaluate whether a dataset meets the homoscedasticity assumption in linear regression, develop an Ordinary Least Squares (OLS) regression model. 
+
 In-progress
