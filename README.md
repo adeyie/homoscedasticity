@@ -11,7 +11,7 @@ The regression models are trained by minimizing least squares errors between fit
 For example, the following figure shows residuals vs. fitted values from a dataset that meets the homoscedasticity assumption.
 
 ![image alt](https://github.com/adeyie/homoscedasticity/blob/50cebaafa85242bf6f60e32f5bd85b153b3ae5c3/homoscedasticity.png)
-
+                               Figure 1
 The figure below shows a dataset that violates the homoscedasticity assumption. This condition is known as heteroscedasticity.
 
 ![image alt](https://github.com/adeyie/homoscedasticity/blob/9d4d0c974b65510b6fadee4994b89952a2be59b8/heteroscedasticity.png)
