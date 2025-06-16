@@ -26,4 +26,4 @@ If the points are randomly scattered without any clear pattern, it suggests that
 If the plot shows any visible pattern and is not randomly scattered, it suggests a violation of the homoscedasticity assumption. In such cases, you can use Weighted Least Squares (WLS) regression to estimate the model parameters.
 ## Weighted Least Squares (WLS) Regression
 The model parameter estimation formulation for WLS regression is
-<pre> β = (XᵀWX)⁻¹ XᵀWy </pre>
+<pre> β = (XᵀWX)⁻¹XᵀWy </pre>
